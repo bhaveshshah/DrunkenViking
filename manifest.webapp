@@ -1,10 +1,10 @@
 {
   "name": "Drunken Viking",
   "description": "Top-down puzzle game, retrace your drunken rampage from the night before",
-  "launch_path": "https://github.com/bhaveshshah/DrunkenViking/index.html",
+  "launch_path": "https://github.com/bhaveshshah/DrunkenViking/blob/master/index.html",
   "icons": {
-    "512": "https://github.com/bhaveshshah/DrunkenViking/index.html/images/icon-512.png",
-    "128": "https://github.com/bhaveshshah/DrunkenViking/index.html/images/icon-128.png"
+    "512": "https://github.com/bhaveshshah/DrunkenViking/blob/master/images/icon-512.png",
+    "128": "https://github.com/bhaveshshah/DrunkenViking/blob/master/images/icon-128.png"
   },
   "developer": {
     "name": "congusbongus",
